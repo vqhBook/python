@@ -1,0 +1,6 @@
+print("I \u2764 you!")
+print(10, chr(0x2264), 11)
+print(f"Some emoji: \U0001F600, {chr(0x1F609)}")
+import math; print(f"\N{GREEK SMALL LETTER PI} = {math.pi}")
+print("Python can be pronounced as /ˈpaɪθən/ or /ˈpaɪθɑːn/")
+print("ฉันรักคุณ", "我爱你")
