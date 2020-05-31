@@ -2,7 +2,7 @@
 
 Sách tự học lập trình cho nhiều đối tượng (từ lớp 8 trở lên). Dự kiến gồm 3 phần với 20 bài. Chúng tôi đang hoàn thiện cuốn sách.
 
-Bản thảo Phần 1 được để [tại đây](https://github.com/vqhBook/python/tree/master/python_part1.pdf).
+Bản thảo Phần 1-2 được để [tại đây](https://github.com/vqhBook/python/blob/master/python_part1_2.pdf).
 
 Bạn có thể tạo một issue [tại đây](https://github.com/vqhBook/python/issues) để đóng góp ý kiến hoặc gởi mail về vqhoang.books@gmail.com. Hoan nghênh mọi ý kiến đóng góp!
 
